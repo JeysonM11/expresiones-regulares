@@ -46,7 +46,9 @@ Este proyecto en Next.js aplica autómatas gramaticales a un formulario para val
 - **JSON** - Para importación y exportación de datos.
 
 ## Autor
-Desarrollado por [2A2G](https://github.com/2A2G)  [JeysonM11](https://github.com/JeysonM11).
+Desarrollado por 
+[2A2G](https://github.com/2A2G)
+[JeysonM11](https://github.com/JeysonM11).
 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
