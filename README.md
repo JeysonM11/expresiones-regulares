@@ -17,7 +17,7 @@ Este proyecto en Next.js aplica autómatas gramaticales a un formulario para val
 ## Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/JeysonM11/expresiones-regulares.git
    cd tu-repo
    ```
 2. Instalar dependencias:
@@ -46,7 +46,7 @@ Este proyecto en Next.js aplica autómatas gramaticales a un formulario para val
 - **JSON** - Para importación y exportación de datos.
 
 ## Autor
-Desarrollado por [2A2gG(https://github.com/2A2G), [JeysonM11](https://github.com/JeysonM11).
+Desarrollado por [2A2G](https://github.com/2A2G), [JeysonM11](https://github.com/JeysonM11).
 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
